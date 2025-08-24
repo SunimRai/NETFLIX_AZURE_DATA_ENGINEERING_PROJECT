@@ -1,0 +1,9 @@
+{
+	"name": "adf-netfli-minus2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36a6ebf0-11f4-4782-abd5-709fe458c91f",
+		"tenantId": "f23c2cdc-7fe1-454d-8507-a4d4f398402f"
+	}
+}
