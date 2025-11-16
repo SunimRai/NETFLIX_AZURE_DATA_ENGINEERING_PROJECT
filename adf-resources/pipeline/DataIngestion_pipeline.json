@@ -1,5 +1,5 @@
 {
-	"name": "DataIngestion1",
+	"name": "DataIngestion_pipeline",
 	"properties": {
 		"activities": [
 			{
