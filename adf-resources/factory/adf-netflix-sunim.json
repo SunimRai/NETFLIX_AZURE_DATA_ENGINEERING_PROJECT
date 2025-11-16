@@ -1,0 +1,9 @@
+{
+	"name": "adf-netflix-sunim",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bf8e1f9f-1986-42c3-8f1b-f3120b497c56",
+		"tenantId": "f23c2cdc-7fe1-454d-8507-a4d4f398402f"
+	}
+}
